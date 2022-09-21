@@ -1,10 +1,12 @@
 ### Hi, I'm Umer Shehzad 👋
 
 <hr>
+
 #### About me
 - 🌱 I’m currently working as a Data Analyst. I want to become an expert Data Scientist. I have completed by bachelor in Computer Science.
 
 <hr>
+
 #### Skills
 - Data Analysis
 - Data Cleaning
@@ -16,6 +18,7 @@
 - Web Scraping
 
 <hr>
+
 #### Technologies & Languages I use
 - Python
 - R
@@ -23,9 +26,11 @@
 - Microsoft Power BI
 - Tableau
 - Jupyter Notebook
-- Goolge
+- Goolge Colab
+- Pycharm
 
 <hr>
+
 #### How to reach me
 <p>
   <a href="https://www.linkedin.com/in/umer-shehzad" rel="nofollow noreferrer">

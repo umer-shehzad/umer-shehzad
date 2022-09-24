@@ -33,8 +33,7 @@
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="mailto:umerarshad369@gmail.com">
-    Gmail</a>
-  <a href="tel:+923157858775">
-    WhatsApp</a>
+    Gmail</a> &nbsp;
+  +923157858775
 </p>
 

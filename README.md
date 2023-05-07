@@ -2,29 +2,28 @@
 <hr>
 
 #### About me
-- 🌱 I’m currently working as a Data Analyst. I want to become an expert Data Scientist. I have completed bachelor's in Computer Sciences.
+- 🌱 I’m a motivated Software Engineer. Developing Web Apps in MERN Stack | Still Learning
 <hr>
 
 #### Skills
+- React JS
+- MERN Stack
+- MySQL
+- MongoDB
+- Javascript
+- Python
+- Front End Templating
+- Bootstrap
 - Data Analysis
-- Data Cleaning
-- Data Visualization
-- Feature Engineering
 - Machine Learning
-- Database Developer
-- Business Consultant
-- Web Scraping
+- Google Cloud Platform
 <hr>
 
-#### Technologies & Languages I use
-- Python
-- R
-- Mircosoft excel
-- Microsoft Power BI
-- Tableau
-- Jupyter Notebook
-- Goolge Colab
-- Pycharm
+#### Interests
+- Web Development
+- Machine Learning
+- Data Science
+- Artificial Intelligence
 <hr>
 
 #### How to reach me
@@ -32,7 +31,7 @@
   <a href="https://www.linkedin.com/in/umer-shehzad" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="mailto:umerarshad369@gmail.com">
+  <a href="mailto:umer.work.96@gmail.com">
     Gmail</a> &nbsp;
   +923157858775
 </p>
